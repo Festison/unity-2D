@@ -6,7 +6,7 @@ public class Enemy : MonoBehaviour
 {
     public GameObject prfHpBar;
     public GameObject canvas;
-
+    public GameObject test;
     RectTransform hpBar;
 
     public float height = 1.7f;
